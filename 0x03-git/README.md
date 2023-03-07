@@ -1,1 +1,1 @@
-changed directory to o*03-git
+“Starting to code today, so cool”
